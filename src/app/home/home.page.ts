@@ -8,7 +8,6 @@ import { Preferences } from '@capacitor/preferences';
   standalone: false,
 })
 export class HomePage implements OnInit {
-
   preferences = {
     option1: false,
     option2: false,
